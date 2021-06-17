@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **Renato-Nakamura/Renato-Nakamura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +13,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Renato Nakamura (1)](https://user-images.githubusercontent.com/65171479/122435016-001a2e00-cf6e-11eb-8bce-7bad473b76aa.png)
+![Renato Nakamura (2)](https://user-images.githubusercontent.com/65171479/122435610-86cf0b00-cf6e-11eb-8b6b-97a97da1037d.png)
