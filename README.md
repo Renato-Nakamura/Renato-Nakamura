@@ -1,22 +1,13 @@
 
-<!--
-**Renato-Nakamura/Renato-Nakamura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <img width="100%" src=https://user-images.githubusercontent.com/65171479/122435610-86cf0b00-cf6e-11eb-8b6b-97a97da1037d.png>
 
 
 # Olá, bem vindo ao meu GitHub!
+<h2>
+<a href="/docs/readme_en.md">Hey, if you're looking for my page in english, just click here!</a>
+
+</h2>
 
 ## Sobre mim
 - Desenvolvedor Jr Full Stack em formação na <a href="https://brazil.generation.org/" target="blank">Generation Brasil</a> 
