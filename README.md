@@ -22,8 +22,9 @@ Here are some ideas to get you started:
 - Desenvolvedor Jr Full Stack em formação na <a href="https://brazil.generation.org/" target="blank">Generation Brasil</a> 
 - Cursando bacharelado e licenciatura em Química na USP de São Paulo
 - Sempre disposto a aprender!
+- Venha conhecer mais sobre mim no:
   
- <a href="https://www.linkedin.com/in/renato-nakamura/" target="_blank">
+  <a href="https://www.linkedin.com/in/renato-nakamura/" target="_blank">
     <img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt = "fabricio-siqueira-macedo" />
   </a> 
 
@@ -38,7 +39,7 @@ Here are some ideas to get you started:
 
 
 
-## Linguagens e Ferramentas✔
+## Linguagens e Ferramentas 
 <p align = "center"> 
 <br>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" /> 
@@ -55,7 +56,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VSCode" />
 </p>
 
-## Estatísticas
+## Estatísticas 
 <br>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Renato-Nakamura&hide=prs,issues,)](https://github.com/Renato-Nakamura?tab=repositories)
