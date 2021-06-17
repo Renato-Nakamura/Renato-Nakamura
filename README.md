@@ -16,7 +16,7 @@
 - Venha conhecer mais sobre mim no:
   
   <a href="https://www.linkedin.com/in/renato-nakamura/" target="_blank">
-    <img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt = "fabricio-siqueira-macedo" />
+    <img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt = "Renato Nakamura" />
   </a> 
 
 ## Entre em contato
