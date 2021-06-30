@@ -49,7 +49,7 @@
 
 ## Estatísticas 
 <br>
-
+![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Renato-Nakamura&hide=prs,issues,)](https://github.com/Renato-Nakamura?tab=repositories)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Renato-Nakamura)](https://github.com/Renato-Nakamura?tab=repositories)
