@@ -3,56 +3,62 @@
 <img width="100%" src=https://user-images.githubusercontent.com/65171479/122435610-86cf0b00-cf6e-11eb-8b6b-97a97da1037d.png>
 
 
-# Olá, bem vindo ao meu GitHub!
+# Hey there, welcome to my github page.
 <h2>
-<a href="/docs/readme_en.md">Hey, if you're looking for my page in english, just click here!</a>
+<a href="/docs/readme_pt.md">Oiee, se estiver procurando minha pagina em português é só clicar aqui!</a>
 
 </h2>
 
-## Sobre mim
-- Desenvolvedor Jr Full Stack em formação na <a href="https://brazil.generation.org/" target="blank">Generation Brasil</a> 
-- Cursando bacharelado e licenciatura em Química na USP de São Paulo
-- Sempre disposto a aprender!
-- Venha conhecer mais sobre mim no:
+# Projects
+
+## [Forcando](https://forcando.web.app/)
+Forcando is a web game inspired in Wordle and a brazilian game, Jogo da Forca. In this game you can find the word of the day or play infinite round with random words.<br>
+https://forcando.web.app/
+
+![forcando](./assets/forcando.png)
+- React, Bulma for front-end (JavaScript)
+- ExpressJs, cheerioJs for backend (JavaScript)
+---
+
+## [EDQ](https://edq-ensino.netlify.app/#/homepage) 
+
+EDQ is a social network design to create an study-friendly space for all students, in EDQ's website all students can access organized classes without any distraction.
+This project was created with 5 classmates to summarize all the content in Generation Brazil's bootcamp.<br>
+
+https://edq-ensino.netlify.app<br>
+
+https://github.com/JuRibeiro/EDQ-Angular<br>
+
+https://github.com/Renato-Nakamura/Projeto-integrador
+
+![EDQ](./assets/EDQ.png)
+
+- Angular 2+, Bootstrap for front-end (JavaScript)
+- Spring, JPA, MySQL (Java)
+
+# About me
+- Started in web development in 2021 at <a href="https://brazil.generation.org/" target="blank">Generation Brasil</a> 
+- I'm a curious person and always searching for something new to learn!
+- You can see more about me at:
   
   <a href="https://www.linkedin.com/in/renato-nakamura/" target="_blank">
     <img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt = "Renato Nakamura" />
   </a> 
 
-## Entre em contato
+# Contact
 
 <p align = "left">
- 
   <a href="mailto:renato.yukio30@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt = "renato.yukio30@gmail.com" />
   <a/>
 </p>
 
-
-
-## Linguagens e Ferramentas 
-<p align = "center"> 
-<br>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" /> 
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring" />
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="Javascript" /> 
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MYSQL" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="Heroku" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="Postman" />
-  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" alt="Eclipse" />
-  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VSCode" />
-</p>
-
-## Estatísticas 
+# Stats
 <br>
 
 ![Snake animation](https://github.com/Renato-Nakamura/Renato-Nakamura/blob/output/github-contribution-grid-snake.svg)
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Renato-Nakamura)](https://github.com/Renato-Nakamura?tab=repositories)  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Renato-Nakamura&hide=prs,issues,)](https://github.com/Renato-Nakamura?tab=repositories)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Renato-Nakamura)](https://github.com/Renato-Nakamura?tab=repositories)  [![Renato's GitHub stats](https://github-readme-stats.vercel.app/api?username=Renato-Nakamura&hide=prs,issues,)](https://github.com/Renato-Nakamura?tab=repositories)
 
